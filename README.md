@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Balidea and as a free lance developer.
-- 🌱 I’m currently learning Data Science stuff (A university Master's programme).
+- 🔭 I’m working on Balidea and as a free lance developer.
+- 🌱 I’m learning Data Science stuff (A university Master's programme).
 - 👯 I’m not looking to collaborate actively on any project. To open a new "war zone" i prefer to finish my data science master first.
 - 🤔 I’m looking for help with ... in fact any contribution is welcomed.
 - 💬 Ask me about skate and computer science. My favorite topics are Computer vision, machine learning and software architecture.
