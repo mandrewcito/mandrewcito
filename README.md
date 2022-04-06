@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m working on Balidea and as a free lance developer.
+- 🔭 I’m working as AI/CV Researcher DTBird&DTBat and as a free lance developer.
 - 🌱 I’m learning Data Science stuff (A university Master's programme).
 - 👯 I’m not looking to collaborate actively on any project. To open a new "war zone" i prefer to finish my data science master first.
 - 🤔 I’m looking for help with ... in fact any contribution is welcomed.
@@ -18,7 +18,7 @@
 ### Links:
 
 * [Dev.to](https://dev.to/mandrewcito/)
-* [devutils](https://devutils.mandrewcito.com/)
+* [Devutils](https://devutils.mandrewcito.com/)
 
 ### Utilities
 
