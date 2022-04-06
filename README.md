@@ -18,7 +18,7 @@
 ### Links:
 
 * [Dev.to](https://dev.to/mandrewcito/)
-* [devutils @ mandrewcito](https://devutils.mandrewcito.com/)
+* [devutils](https://devutils.mandrewcito.com/)
 
 ### Utilities
 
