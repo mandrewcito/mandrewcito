@@ -18,9 +18,9 @@
 ### Websites:
 
 * [Dev.to](https://dev.to/mandrewcito/)
-* [Devutils](https://devutils.mandrewcito.com/)
-* [Status - websites](https://status.mandrewcito.com/)
-* [Links shortener](https://shortener.mandrewcito.com/)
+* [Devutils](https://devutils.mandrewcito.dev/)
+* [Status - websites](https://status.mandrewcito.dev/)
+* [Links shortener](https://shortener.mandrewcito.dev/)
 
 ### Utilities
 
