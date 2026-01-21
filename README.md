@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 📜 Data Science master, Computer science degree and Higher Technical Certificate system administrator.
+- 📜 Complex Problem Solving master, Data Science master, Computer science degree and Higher Technical Certificate system administrator.
 - 🔭 I’m working as AI/CV Researcher and development lead at DTBird&DTBat and as a freelance developer.
-- 🌱 I’m learning Rust and complex problem solving (Master degree, UNIR)
-- 👯 I’m not looking to collaborate on any project for now. But always open to listen and join new adventures. 
+- 🌱 I’m learning things related with linux kernel development (for fun and hopefully some day ... contribute)
+- 👯 I’m not looking to collaborate on any project for now. But always open to listen and join new adventures.
 - 🤔 I’m looking for help with ... in fact any contribution is welcomed.
 - 💬 Ask me about skate and computer science. My favorite topics are Computer vision, machine learning and software architecture.
 - 📫 How to reach me: as mandrewcito in social media twitter, dev.to, git ... 
